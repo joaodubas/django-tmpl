@@ -1,0 +1,9 @@
+{
+  "name": "django-template-test",
+  "author": "Joao Paulo Dubas <joao.dubas@gmail.com>",
+  "description": "Django template test showdown.",
+  "dependencies": {
+    "swig": "~1.1.0",
+    "plate": "~1.3.0"
+  }
+}
