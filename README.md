@@ -7,5 +7,5 @@ Testing django like templates for node.js and browser.
 * [swig][github-swig]
 * [plate][github-plate]
 
-[github-swig] https://github.com/paularmstrong/swig
-[github-plate] https://github.com/chrisdickinson/plate
+[github-swig]: https://github.com/paularmstrong/swig
+[github-plate]: https://github.com/chrisdickinson/plate
